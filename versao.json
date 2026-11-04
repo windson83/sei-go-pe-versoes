@@ -1,0 +1,21 @@
+{
+  "versao": "1.6.1",
+  "data": "2026-11-04",
+  "titulo": "Unidade geradora dos documentos e aviso de documento sem acesso",
+  "novidades": [
+    "Lista de documentos do processo mostra a unidade que gerou cada documento (passe o mouse para ver o nome completo).",
+    "Correção: em processo restrito de outra unidade, abrir um documento dava \"unknown url type\". O SEI não libera o conteúdo para a sua unidade; agora o painel mostra \"sem acesso\" na lista e explica o motivo, sem tentar abrir.",
+    "Documentos assinados aparecem como assinados também nos processos de outras unidades."
+  ],
+  "pagina": "https://github.com/windson83/sei-go-pe-versoes/releases/tag/v1.6.1",
+  "setup": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.6.1/SEI-GO-PE-Setup-1.6.1.exe",
+  "minima": "",
+  "pacote": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.6.1/SEI-GO-atualizacao-1.6.1.bin",
+  "pacote_sha256": "aacd3bae468a1d9b19e351bbbf25c2c405e7c4b73d224b5f86c37c35b06428d1",
+  "assinado_em": "2026-11-04T20:56:33Z",
+  "assinatura": "9WSQSrEAqIM4C+Phu7LgS+I9TLDju7pNCPF3+9yhy8OyH3SE1UGYgPAbGgtXK3Qn5YKcF3av96dXHGwxVrwlDw==",
+  "setup_sha256": "cabddffce3563363fabe4e1d0571a2d8a742650d6f56dec1a73e47be0c7320af",
+  "assinatura_setup": "7EqGPpXH2sLJ6B6kvMN8Sy4mOSS4VRg1PmM+SQOfIadE1VeTjVZxm/W6UZR61ANya6H9DrkDryTEyJH4sM45Dg==",
+  "expira_em": "2027-02-02T20:56:33Z",
+  "assinatura_validade": "rLM4+mqQRPO4A5vG95RfsRFzd/em0QMvS946EviyFbEm9+J9MCT8QeQ6sq05YwIwwlB+10pzwAJCDySeRLZ5CQ=="
+}

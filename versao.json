@@ -1,22 +1,22 @@
 {
-  "versao": "1.8.2",
+  "versao": "1.8.3",
   "data": "2026-11-06",
-  "titulo": "Pesquisa: filtros com a sugestão do SEI e \"Onde aparece\"",
+  "titulo": "Texto pronto editado antes de gravar e editor solto",
   "novidades": [
-    "Unidade geradora, assinado por, gerado por, interessado e assunto sugerem enquanto você digita, com a mesma lista do SEI. Clique no nome certo e ele vai para o SEI como está, sem risco de pegar outra pessoa ou unidade.",
-    "Botão Eu em \"Assinado por\" e \"Gerado por\": usa o seu usuário do SEI. As datas abrem um calendário, e os valores ficam no formato 1.234,56.",
-    "Busca por palavra procura em documentos: cada resultado mostra o documento e o nº SEI, agrupado por processo, com a palavra marcada no trecho.",
-    "Botão Onde aparece: abre o texto do documento com cada ocorrência marcada, a página (em PDF), a lista dos trechos e Próxima/Anterior. Abrir no processo leva direto ao documento."
+    "Texto padrão ou favorito vai primeiro para o editor (Editar antes de gravar, ou dois cliques), com negrito, alíneas e tabela como no SEI. Do favorito vem só o corpo, sem timbre, número antigo nem assinatura.",
+    "Trechos a completar ficam em amarelo, com uma lista para ir até cada um: XX, Nº sem número, (00) 0000 0000, ( ), [ ], ____ e data que não é a de hoje. Gravar com algum ainda marcado pede confirmação.",
+    "Criar sem editar continua existindo; depois de criar ou gravar, o botão Editar abre o documento novo direto, sem procurar no processo.",
+    "O Editar documento agora também fica no centro, flutuante, lado a lado (junto das Peças do processo) ou numa janela separada, levando o que já foi digitado."
   ],
-  "pagina": "https://github.com/windson83/sei-go-pe-versoes/releases/tag/v1.8.2",
-  "setup": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.8.2/SEI-GO-PE-Setup-1.8.2.exe",
+  "pagina": "https://github.com/windson83/sei-go-pe-versoes/releases/tag/v1.8.3",
+  "setup": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.8.3/SEI-GO-PE-Setup-1.8.3.exe",
   "minima": "",
-  "pacote": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.8.2/SEI-GO-atualizacao-1.8.2.bin",
-  "pacote_sha256": "cb304164180dd23269143803166d48a9627fe46e1c101e2ffaa814c5ade1a2e6",
-  "assinado_em": "2026-11-06T15:55:25Z",
-  "assinatura": "6sZD4uGg6SbJqw/jKn3DI0EOuFiBPSWZ+jXezNpYaiS8o8I6rKeD4S/9ov8ntBc/5kRsBwd65+4lv6q4tPyhCA==",
-  "setup_sha256": "bc705835baceff2ef3bcf62871be412070d6f28911392d1949b8002ff1ee2723",
-  "assinatura_setup": "RRRaW8TXIvjbBEVezZtCOfDiZfhjjQQ5lPtUQUVbh70BeEiLl9ufJ6TUBxjwBDG+xvCpTlWPBkShPmlpMsY9CQ==",
-  "expira_em": "2027-02-04T15:55:25Z",
-  "assinatura_validade": "jATDct0hPpoTkJTnEgocvR7U7PEkYzJHSLxrcMFVCmtPLJwTaB1/3KFYJpnTjNNoNxQYxpTR5AIWI6mc2QsbCw=="
+  "pacote": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.8.3/SEI-GO-atualizacao-1.8.3.bin",
+  "pacote_sha256": "14cf4e8f68b1c4f39e05084886cd1db9acd8e557896810f74950ffbc6a426ed5",
+  "assinado_em": "2026-11-06T17:39:24Z",
+  "assinatura": "0YtDUCF/fz/6jhuczmuqP0tLKnetNxbciM3o4FsQA5nHSMgPC76QxHfgDd6XdhSACI7uPyEmleER3cjcz91MBA==",
+  "setup_sha256": "4c937d9f63e11ca977bfd269b87a16c738b16353d85b1745ad7173382ce0b4a2",
+  "assinatura_setup": "XS7QrqK0lEPrekcBrWtvuHgyH2uZxf4T1+76CyLKEbvP8PyEwgKwDFH8Nv99SAnfWmgT6wiPeTahbkQlRhIlCQ==",
+  "expira_em": "2027-02-04T17:39:24Z",
+  "assinatura_validade": "VD53aS1BERC2/bYp9LlHGyChwDKNba2Y9mE+QEsCQvcyKLDJ3ZQRf6qDu0e9ZEl+N2BNf1A+i3uWdLtAufBWDA=="
 }

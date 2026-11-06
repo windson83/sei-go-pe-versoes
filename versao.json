@@ -1,23 +1,20 @@
 {
-  "versao": "1.8.0",
+  "versao": "1.8.1",
   "data": "2026-11-06",
-  "titulo": "Pesquisa em todo o SEI, pedida em português",
+  "titulo": "A IA lê as pastas de trabalho inteiras",
   "novidades": [
-    "Menu Pesquisa: procura processos e documentos em todo o SEI, com os filtros da tela Pesquisa do SEI: palavra, nº SEI, tipo, número do documento, unidade geradora, quem assinou, quem gerou, interessado, período, valor, só o seu órgão e tramitou na sua unidade.",
-    "Escreva como falaria: \"processo com a palavra celular que tramitou aqui e que eu assinei em outubro\". O painel mostra como entendeu e preenche os filtros, que você pode mudar.",
-    "Entender o pedido sem IA (na hora) ou com a IA que você escolher, que entende frases mais livres e pode ampliar a palavra com sinônimos.",
-    "Resultado com o processo, o documento e o nº SEI, o trecho onde a palavra aparece, a unidade e a data, 10 por página; também o que está na caixa e no cérebro local. Nome com mais de um resultado no SEI aparece para você escolher.",
-    "A busca do topo agora aceita qualquer coisa: número de processo abre direto; o resto vai para a Pesquisa. O assistente também pesquisa (\"acha o ofício 70138\") e a ferramenta sei_pesquisar das IAs ganhou os mesmos filtros."
+    "No Modo Qualidade, a pasta de trabalho (contrato, TR, aditivos, normas e modelos) entra inteira na pasta que a IA lê, com índice: ela procura e abre cada arquivo como faz com o processo, em vez de ver só os trechos achados pela busca. Os trechos continuam como ponto de partida.",
+    "A sua pasta original nunca é alterada; o texto passa pela proteção de dados pessoais e a cópia é apagada no fim. Arquivo grande demais fica só com os trechos, com aviso."
   ],
-  "pagina": "https://github.com/windson83/sei-go-pe-versoes/releases/tag/v1.8.0",
-  "setup": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.8.0/SEI-GO-PE-Setup-1.8.0.exe",
+  "pagina": "https://github.com/windson83/sei-go-pe-versoes/releases/tag/v1.8.1",
+  "setup": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.8.1/SEI-GO-PE-Setup-1.8.1.exe",
   "minima": "",
-  "pacote": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.8.0/SEI-GO-atualizacao-1.8.0.bin",
-  "pacote_sha256": "08621143190b75aab9b1450adc2a43fd501395a8d2d93bf87c6e36538db688a5",
-  "assinado_em": "2026-11-06T14:15:27Z",
-  "assinatura": "FydmY5IuR9eiN94ada/ZAiyu+J2KY4sBFrm3dcUIM3tukSGZCjjK/rwP1yemyupydU8VwA3ij+1FfG3pUMBJAQ==",
-  "setup_sha256": "c8d2b18afc4b23b9363fa60a2b0083a78c6ae3001f958c5dc057f99559f80218",
-  "assinatura_setup": "Y5Umi9iZILJ5Gqjkk3CylgSj+k749Ue8wTJXcqk8Mm4vMfuGmlfvsDcb/9AysedCmqR6+LznTIcMOvx3i5iqBQ==",
-  "expira_em": "2027-02-04T14:15:27Z",
-  "assinatura_validade": "IvH455D9cwUzNTudnSjoDXTZX73iC7yIihpU1oqCEFamOkHpegyF1p5tg59VyoB8Ippl9cKj0ka+9r51XpNxCQ=="
+  "pacote": "https://github.com/windson83/sei-go-pe-versoes/releases/download/v1.8.1/SEI-GO-atualizacao-1.8.1.bin",
+  "pacote_sha256": "9456b7af1fab5156e5821bfa16ee7bda02ee63f301eb9ad716c8a41bc1a27095",
+  "assinado_em": "2026-11-06T15:07:41Z",
+  "assinatura": "Fe4kk9NEVaFZX4BUAtHk2+Id7ot8GjRFBA0QLs8agXW2FZ6W9047f0ZBN2LkOb8pluPMdjgfxlRaQNvQeiNoDA==",
+  "setup_sha256": "073c3f34af8da7880eb9f8fb766879faeb84eb092d97b2a30c7cf41b9e6e34d0",
+  "assinatura_setup": "e1RgGZdshACkbQVtihg9hCo4gq1U8HZdnlWr7ajHW+Xm9ZYBV5mtcF0yVaxZpISRlZtKxRmYe0+tTCt9axQXAQ==",
+  "expira_em": "2027-02-04T15:07:41Z",
+  "assinatura_validade": "TxoLoiwSMPRE8NcvdwHOMfGJdUxgGVjZhlpyVZwJNNeiJArvzV/tRpTIdEBguK2uEUXj4JnzKg4+HQ7tRcuuCA=="
 }
